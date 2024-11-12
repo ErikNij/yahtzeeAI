@@ -1,3 +1,5 @@
 How to upload in GH:
+
+git add [the files you need]
 git commit to make a draft
 git push to send your updates up
